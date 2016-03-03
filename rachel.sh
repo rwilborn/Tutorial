@@ -1,4 +1,5 @@
 #Calculate reduced stats for data files at J= 100 c/bp
+#more comments here
 for datafile in "$@"
 do
 	echo ${datafile}       #added brackets for git commit lesson
