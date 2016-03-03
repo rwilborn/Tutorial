@@ -1,3 +1,5 @@
+#Pam was here to edit this file
+#Hi RAchel
 #Calculate reduced stats for data files at J= 100 c/bp
 #more comments here
 for datafile in "$@"
